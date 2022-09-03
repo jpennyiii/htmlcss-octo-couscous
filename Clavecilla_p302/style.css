@@ -1,0 +1,39 @@
+body{
+    height:450px;
+    width:1000px;
+    background-color:#f2f2f2;
+}  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  form{
+    margin-left: 35%;
+  }
+  #username{
+     width: 300px;
+     margin-top:130px;
+     border: 1px solid #ccc;
+     border-radius: 4px;
+     height: 30px;
+     padding:0px 0px 0px 4px;
+  }
+  #password{
+    width: 300px;
+    margin-top:15px;
+    margin-left:4px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 30px;
+    padding:0px 0px 0px 4px;
+  }
+  #submitbtn{
+    border-radius: 10px;
+    width: 300px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px 0px 73px;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+  }
